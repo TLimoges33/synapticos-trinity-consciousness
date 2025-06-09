@@ -1,0 +1,47 @@
+# Logs and databases
+*.log
+*.db
+*.sqlite
+
+# Environment variables
+.env
+*.env
+
+# API keys and secrets
+*api_key*
+*secret*
+*token*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Runtime files
+*.pid
+*.sock
